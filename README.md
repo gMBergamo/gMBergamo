@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Giovanni</h1>
 <h3 align="center">A passionate fullstack developer from Brasil</h3>
 
-- 🌱 I’m currently learning **Java, C#, .Net, TDD and PostgreSQL**
+- 🌱 I’m currently learning **C#, .Net, TDD, EFrameWork, ORM and PostgreSQL**
 
-- 💬 Ask me about **Java, C#, .Net, TDD and PostgreSQL**
+- 👨‍🎓 I'm a graduate student in **IT Management at FACENS in Sorocaba - SP**!
+
+- 💬 Ask me about **C#, .Net, and PostgreSQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
