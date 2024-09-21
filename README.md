@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-- 📫 How to reach me **giovannimgbergamo@gmail.com**
+- 📫 How to reach me giovannibergamo8@gmail.com
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/giovanni-bergamo/?locale=en_US](https://www.linkedin.com/in/giovanni-bergamo/?locale=en_US)
 </p>
